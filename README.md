@@ -7,4 +7,29 @@
 [![course-list](https://img.shields.io/badge/course-list-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
 
 Part of the 
-[Machine Learning Specialization](https://github.com/anishLearnsToCode/ml-uni-washington)
+[Machine Learning Specialization ~ University of Washington](https://github.com/anishLearnsToCode/ml-uni-washington)
+taught on 
+[Coursera](https://www.coursera.org/learn/ml-foundations)
+
+## Index
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+- [Week 3](#week-3)
+- [Week 4](#week-4)
+- [Week 5](#week-5)
+- [Week 6](#week-6)
+- [Certificate](#certificate)
+
+## Week 1
+
+## Week 2
+
+## Week 3
+
+## Week 4
+
+## Week 5
+
+## Week 6
+
+## Certificate
