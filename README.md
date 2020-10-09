@@ -21,6 +21,7 @@ taught on
 - [Certificate](#certificate)
 
 ## Week 1
+- [Jupyter Notebook Hello World](hello_world.ipynb)
 
 ## Week 2
 
